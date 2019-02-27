@@ -3,4 +3,4 @@ Sample repository
 
 Hello there!!
 
-I like travel the whole world.
+I like to travel the whole world.
